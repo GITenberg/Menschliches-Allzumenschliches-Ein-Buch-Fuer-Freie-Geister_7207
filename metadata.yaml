@@ -1,0 +1,57 @@
+_repo: Menschliches-Allzumenschliches-Ein-Buch-Fuer-Freie-Geister_7207
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: "Human, All Too Human: A Book for Free Spirits (German: Menschliches,\
+  \ Allzumenschliches: Ein Buch für freie Geister) is a book by 19th century philosopher\
+  \ Friedrich Nietzsche, originally published in 1878. A second part, Assorted Opinions\
+  \ and Maxims (Vermischte Meinungen und Sprüche), was published in 1879, and a third\
+  \ part, The Wanderer and his Shadow (Der Wanderer und sein Schatten), followed in\
+  \ 1880.\nThe book is Nietzsche's first in the aphoristic style that would come to\
+  \ dominate his writings, discussing a variety of concepts in short paragraphs or\
+  \ sayings. Reflecting an admiration of Voltaire as a free thinker, but also a break\
+  \ in his friendship with composer Richard Wagner two years earlier, Nietzsche dedicated\
+  \ the original 1878 edition of Human, All Too Human “to the memory of Voltaire on\
+  \ the celebration of the anniversary of his death, May 30, 1778.” Instead of a preface,\
+  \ the first part originally included a quotation from Descartes’ Discourse on the\
+  \ Method. Nietzsche later republished all three parts as a two-volume edition in\
+  \ 1886, adding a preface to each volume, and removing the Descartes quote as well\
+  \ as the dedication to Voltaire.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7207'
+  wikidata: Q1364539
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings'
+- !lcc 'B'
+- !lcsh 'Philosophy, German'
+title: 'Menschliches, Allzumenschliches: Ein Buch Fuer Freie Geister'
+url: http://www.gutenberg.org/ebooks/7207
+wikipedia:
+- https://fr.wikipedia.org/wiki/Humain,_trop_humain
+- https://pl.wikisource.org/wiki/Ludzkie,_arcyludzkie
+- https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%80%A7%E7%9A%84%EF%BC%8C%E5%A4%AA%E4%BA%BA%E6%80%A7%E7%9A%84
+- https://pt.wikipedia.org/wiki/Humano,_Demasiado_Humano
+- https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%88%DB%95%DB%8C%DB%95_%D9%85%D8%B1%DB%86%DA%A4
+- https://en.wikiquote.org/wiki/Human,_All_Too_Human
+- https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C_%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C
+- https://de.wikipedia.org/wiki/Menschliches,_Allzumenschliches
+- https://es.wikipedia.org/wiki/Humano,_demasiado_humano
+- https://en.wikisource.org/wiki/Human_All-Too-Human
+- https://en.wikipedia.org/wiki/Human,_All_Too_Human
+- https://it.wikipedia.org/wiki/Umano,_troppo_umano
+- https://kk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D0%B4%D1%8B%D2%9B,_%D0%BD%D0%B5_%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD_%D0%B0%D0%B4%D0%B0%D0%BC%D0%B4%D1%8B%D2%9B
+- https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5,_%D1%81%D0%BB%D0%B8%D1%88%D0%BA%D0%BE%D0%BC_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5
+- https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9D%B8,_%EB%84%88%EB%AC%B4%EB%82%98_%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9D%B8
+- https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%95%D7%A9%D7%99,_%D7%90%D7%A0%D7%95%D7%A9%D7%99_%D7%9E%D7%93%D7%99
