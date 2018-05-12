@@ -1,4 +1,8 @@
 _repo: Menschliches-Allzumenschliches-Ein-Buch-Fuer-Freie-Geister_7207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -22,6 +26,8 @@ description: "Human, All Too Human: A Book for Free Spirits (German: Menschliche
   \ Method. Nietzsche later republished all three parts as a two-volume edition in\
   \ 1886, adding a preface to each volume, and removing the Descartes quote as well\
   \ as the dedication to Voltaire.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7207#Menschliches-Allzumenschliches-Ein-Buch-Fuer-Freie-Geister
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
